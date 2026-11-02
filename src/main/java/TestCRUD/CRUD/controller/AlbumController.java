@@ -1,5 +1,11 @@
-package TestCRUD.CRUD.controller;
+/* Essa é uma classe com padrão MVC, responsável por receber as requisições HTTP. 
+ * O MVC dividide a aplicação em três camadas: Model, View e Controller. 
+ * 
+*/
 
+
+
+package TestCRUD.CRUD.controller;
 import TestCRUD.CRUD.model.Album;
 import TestCRUD.CRUD.service.AlbumService;
 import org.springframework.http.HttpStatus;

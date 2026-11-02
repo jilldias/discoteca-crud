@@ -1,3 +1,7 @@
+/**
+ * Classe que compõe a camada repositório, responsável pela persistência dos dados. 
+ */
+
 package TestCRUD.CRUD.repository;
 
 import TestCRUD.CRUD.model.Album;

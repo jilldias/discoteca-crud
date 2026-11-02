@@ -1,5 +1,12 @@
-package TestCRUD.CRUD.service;
+/** 
+ * Camada de serviço que implementa a lógica de negócios. Age como um intermediário entre o controlador
+ *  e o repositório, processando dados e aplicando regras de negócio antes de interagir com o banco de dados.
+ * 
+ * 
+ */
 
+
+package TestCRUD.CRUD.service;
 import TestCRUD.CRUD.model.Album;
 import TestCRUD.CRUD.repository.AlbumRepository;
 import org.springframework.stereotype.Service;
