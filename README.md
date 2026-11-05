@@ -1,5 +1,7 @@
 # Sistema CRUD de Álbuns Musicais
 
+🚧 Projeto em fase de refatoração!
+
 ## Descrição do Projeto
 
 Este projeto consiste no desenvolvimento de uma aplicação **CRUD (Create, Read, Update, Delete)** para gerenciamento de álbuns musicais.  
